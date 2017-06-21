@@ -1,2 +1,3 @@
 # Minesweeper
-A classic Minesweeper game by C++ on Visual Studio 2013
+
+A classic minesweeper game for UWP(Universal Windows Platform) on Windows10.
